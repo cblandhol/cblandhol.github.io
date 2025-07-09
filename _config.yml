@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
-title: Christine Blandhol
-description: xx
+title: Your Name
+description: A short description
+url: "https://cblandhol.github.io"
+baseurl: ""
+theme: null
+remote_theme: orderedlist/minimal
